@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1><center>Conversor de Temperatura</center></h1>
-    <form action="conversor.php" method="post">
+    <form action="index1.php" method="post">
         <lable for="tipoConversao"> Tipo de conversão: 
             <select id="op" name="tipoTemp">
                 <option value="1">ºC para ºF</option>
